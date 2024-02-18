@@ -1,0 +1,54 @@
+{
+    "banner": {
+      "start": [
+        "/PVPIT/im1.png",
+        "/PVPIT/im2.png",
+        "/PVPIT/img3.jpeg",
+        "/PVPIT/img5.png",
+        "/PVPIT/img6.png"
+      ]
+    },
+    "footer": {
+      "description": "Our platform offers a secure and confidential space for budding entrepreneurs to connect with potential investors, enabling them to share their innovative ideas exclusively with interested parties while maintaining privacy from the public eye. With robust measures in place, entrepreneurs can confidently showcase their projects, fostering valuable connections and opportunities for growth.",
+  
+      "address": "IIITP",
+  
+      "email": "projectaccelerator@gmail.com",
+  
+      "phone": "+91 7412589635",
+  
+      "facebook": "https://www.facebook.com/",
+  
+      "twitter": "https://twitter.com/",
+  
+      "instagram": "https://www.instagram.com/",
+  
+      "linkedin": "https://www.linkedin.com/",
+  
+      "youtube": "https://www.youtube.com/"
+    },
+    "offer": [
+      {
+            "title": "Aman Gupta",
+            "image": "https://imgs.search.brave.com/A0T3RwpGQnuOIfNbtVdEJ2ev_zKA2A_oOGZeBo49eJo/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/bGVhZGVyYmlvZ3Jh/cGh5LmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMy8wOS9z/aHpyZnhnLTc1MHgz/NzUucG5n",
+            "description": "In the bustling streets of Mumbai, Aman Gupta embarked",
+            "wiki" : "https://en.wikipedia.org/wiki/Aman_Gupta"
+        },
+      {
+            "title": "Ronnie Screwvala",
+            "image": "https://imgs.search.brave.com/KKg4IkSQdUEo8eTh_VRe_jud-wXYri1YawAys1nkTrU/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMueW91cnN0b3J5/LmNvbS9jcy8yLzk2/ZWFiZTkwMzkyMjEx/ZWI5M2YxODMxOWU4/YzA3YTc0L0ltYWdl/ZGRnbC0xNzAyNjM2/NzU4MTc3LmpwZz93/PTExNTImZm09YXV0/byZhcj0yOjEmbW9k/ZT1jcm9wJmNyb3A9/ZmFjZXM",
+            "description": "Ronnie Screwvala, a visionary entrepreneur and philanthropist",
+            "wiki" : "https://en.wikipedia.org/wiki/Ronnie_Screwvala"
+      },
+      {
+        "title": "Anil Ambani",
+        "image": "https://images.moneycontrol.com/static-mcnews/2019/02/Anil-Ambani-770x433.jpg?impolicy=website&width=770&height=431",
+        "description": "Anil Ambani, fallen Indian business magnate and the former chairman of Reliance Group",
+        "wiki" : "https://en.wikipedia.org/wiki/Anil_Ambani"
+      }
+  
+      
+      ]
+  
+     
+  }

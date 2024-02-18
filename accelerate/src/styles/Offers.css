@@ -1,0 +1,10 @@
+.offers {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 40px;
+    gap: 20px;
+    margin: 0px 50px 50px 50px;
+  }
+  
